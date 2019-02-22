@@ -1,0 +1,12 @@
+cz\vasek\SchedulerJob.class
+cz\vasek\SchedulerJob$1.class
+cz\vasek\domain\ExchangeRates$1.class
+cz\vasek\utils\IoUtils.class
+cz\vasek\domain\ExchangeRates$SingletonHelper.class
+cz\vasek\utils\Utils.class
+cz\vasek\domain\Payment.class
+cz\vasek\domain\Payments$SingletonHelper.class
+cz\vasek\domain\Payments.class
+cz\vasek\Main.class
+cz\vasek\domain\Payments$1.class
+cz\vasek\domain\ExchangeRates.class
